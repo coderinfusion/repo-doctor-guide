@@ -1,4 +1,6 @@
 # repo-doctor-guide
+> A quick checklist for when a repo "should work" but doesn't.
+
 Common reasons code repositories fail to run (and how to fix them)
 
 # Your Repo Won’t Run. Here’s Why.
